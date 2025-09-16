@@ -59,6 +59,3 @@ streamlit run app.py --server.port 8502
 ```powershell
 Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 ```
-
-### Licença
-Uso acadêmico/educacional. Ajuste conforme sua necessidade.
