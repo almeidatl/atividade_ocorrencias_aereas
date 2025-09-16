@@ -319,10 +319,10 @@ def main():
 	section_histograms(filtered)
 	st.markdown("---")
 
-	section_model_image()
+	# section_model_image()
 
-	with st.expander("Ver amostra dos dados"):
-		st.dataframe(filtered.head(100), use_container_width=True)
+	# with st.expander("Ver amostra dos dados"):
+	# 	st.dataframe(filtered.head(100), use_container_width=True)
 
 
 if __name__ == "__main__":
