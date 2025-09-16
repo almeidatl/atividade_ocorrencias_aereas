@@ -2,6 +2,7 @@
 
 Este projeto é um dashboard interativo em Python/Streamlit para explorar dados de ocorrências aeronáuticas (acidentes, incidentes e recomendações).
 
+
 ### Requisitos
 - Python 3.11+ (recomendado)
 - Windows PowerShell (ou terminal equivalente)
